@@ -8,7 +8,7 @@ Set your Turntable and electronic parts, you must send the controller.ino file t
 
 
 ## Usage
-Run the HPTurntableController.exe, HERE IS IMPORTANT first select COM port and click SET PORT button, if everything is okay you won't get an error
+Run HP 3D Scan 5 and HPTurntableController.exe, HERE IS IMPORTANT first select COM port and click SET PORT button, if everything is okay you won't get an error
 
 then set time and angle, if you want angle 60 and time 30 second you must write expression like this 30000060. 
 
